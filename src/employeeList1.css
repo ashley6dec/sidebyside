@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  color:green;
+}
+
+.box {
+  flex: 1;
+  margin: 10px;
+  padding: 20px;
+  border: 2rem solid #cb8282;
+  border-radius: 5px;
+
+}
+
+.disabled {
+  color: #888; /* Gray color for disabled employees */
+}
+
+button {
+  margin-left: 10px;
+  color:blue;
+  border: 2px solid rgb(50, 50, 225);
+  background-color: rgb(117, 255, 255);
+  border-radius: 2rem;
+}
